@@ -1,0 +1,23 @@
+.num{
+    width: 100%;
+    height: 30vh;
+    border: 1 px black solid;
+    position: fixed;
+    bottom: 20px;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.search{
+    width: 100%;
+    padding: 5px;
+}
